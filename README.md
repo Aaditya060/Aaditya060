@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ "Hi, I'm Aaditya Jain — a passionate tech enthusiast and aspiring Software Engineer!"<br><br>- 🎓 Sophomore at Thapar Institute of Engineering & Technology<br>- 📚 Pursuing B.Tech in Electrical Engineering and a minor in Computer Science<br>- 🔬 Interests: Machine Learning, IoT, Web Development, and UI/UX Designing<br>- My Portfolio link: https://aaditya060.github.io/AadityaJain.github.io/<br>- 🌟 Fun fact: I love video editing and gaming!</p>
+<p align="left">✨ "Hi, I'm Aaditya Jain — a passionate tech enthusiast and aspiring Software Engineer!"<br><br>- 🎓 Sophomore at Thapar Institute of Engineering & Technology<br>- 📚 Pursuing B.Tech in Electrical Engineering and a minor in Computer Science<br>-📚 Building INTERNKHOJO - Vetted platform for Genuine & Legit Internship & Full Time offers for Freshers. (Backed by Corvian Ventures)<br>- 🔬 Interests: Machine Learning, IoT, Web Development, and UI/UX Designing<br>- My Portfolio link: https://aaditya060.github.io/AadityaJain.github.io/<br>- 🌟 Fun fact: I love video editing and gaming!</p>
 
 ###
 
